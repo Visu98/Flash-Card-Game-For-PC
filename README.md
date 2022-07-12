@@ -1,5 +1,10 @@
 # Flash-Card-Game-For-PC
 Learn French by Flash card game for PC
+Link to download <a href="https://drive.google.com/file/d/1ZDYRCEo_784bPZ0nYggVe64Q2azrn8TI/view?usp=sharing">click here</a>
+
+
+https://drive.google.com/file/d/1ZDYRCEo_784bPZ0nYggVe64Q2azrn8TI/view?usp=sharing
+
 
 ![Home](./ss/ss_fr.png)
 
@@ -9,7 +14,7 @@ GUI to navigate to next words
 
 
 ## How to use
-1. Download zip file and unzip
+1. Download zip file and unzip:-https://drive.google.com/file/d/1ZDYRCEo_784bPZ0nYggVe64Q2azrn8TI/view?usp=sharing
 2. run main.exe, and happy learning
 
 ## Features
